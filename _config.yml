@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daehyeon Han"
+title                    : "AI+RS to understand our planet"
 title_separator          : "-"
 name                     : "Daehyeon Han"
 description              : "dhan's Github page."
@@ -98,11 +98,11 @@ analytics:
 # Site Author
 author:
   name             : "Daehyeon Han"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/gh_profile.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Environment scientist."
   location         : "Ulsan, South Korea"
   email            : "dhan.daehyeon@gmail.com"
-  uri              :
+  uri              : "thevoyageout.com"
   home             : "thevoyageout.com" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -110,11 +110,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "github.com/daehyeon-han"
+  github           : "/daehyeon-han"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "instagram.com/daehyeons_gaze/"
+  instagram        : "/daehyeons_gaze"
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
