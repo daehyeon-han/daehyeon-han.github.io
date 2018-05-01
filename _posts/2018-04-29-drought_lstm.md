@@ -18,6 +18,3 @@ A drought occurs when water deficiency resulting from recording below-average pr
 ### Current state
 Now we're building ConvLSTM model to deal with the spatio-temporal forecasting model.
 
-### Related images
-![img1](https://www.dropbox.com/s/tgtnmblxzv89klm/fig1.png?dl=0)
-![img2](https://www.dropbox.com/s/luhgkiifut395l7/Capture%20d%27%C3%A9cran%202018-05-01%2014.52.54.png?dl=0)
