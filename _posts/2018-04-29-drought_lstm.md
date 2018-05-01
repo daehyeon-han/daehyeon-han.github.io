@@ -1,11 +1,11 @@
 ---
 title: "Drought forecast using LSTM!"
 date: 2018-04-29
-categories: research
+categories: research, cnn, drought, lstm, convlstm
 ---
 # Drought forecasts using a satellite-derived drought indicator through machine learning approach
 
-**Will be submitted in summer, 2018.**
+***Will be submitted in summer, 2018.***
 
 ## Abstract
 
