@@ -10,3 +10,4 @@ A drought occurs when water deficiency resulting from recording below-average pr
 
 
 ## Related images
+![img1](https://www.dropbox.com/s/tgtnmblxzv89klm/fig1.png?dl=0)
