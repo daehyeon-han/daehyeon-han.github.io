@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "AI+RS to understand our planet"
+title                    : "AI+RS to understand our planet!"
 title_separator          : "-"
 name                     : "Daehyeon Han"
 description              : "dhan's Github page."
 url                      : "https://daehyeon-han.github.io"
-baseurl                  : ""# the subpath of your site, e.g. "/blog"
+baseurl                  : #""# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # "/images/gh_profile_500.png"
 # breadcrumbs            : false # true, false (default)
@@ -99,7 +99,7 @@ analytics:
 author:
   name             : "Daehyeon Han"
   avatar           : "" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Environment scientist."
+  bio              : "Environment scientist using Remote sensing and Machine Learning."
   location         : "Ulsan, South Korea"
   email            : "dhan.daehyeon@gmail.com"
   uri              : "http://thevoyageout.com"
