@@ -5,7 +5,7 @@ categories: research, cnn, drought, lstm, convlstm
 ---
 # Drought forecasts using a satellite-derived drought indicator through machine learning approach
 
-***Will be submitted in summer, 2018.***
+*in progress*
 
 ## Abstract
 
@@ -16,3 +16,4 @@ Building ConvLSTM model to deal with the spatio-temporal forecasting model.
 
 ## Related images
 ![img1](https://www.dropbox.com/s/tgtnmblxzv89klm/fig1.png?dl=0)
+![img2](https://www.dropbox.com/s/luhgkiifut395l7/Capture%20d%27%C3%A9cran%202018-05-01%2014.52.54.png?dl=0)
