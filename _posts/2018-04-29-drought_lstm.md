@@ -5,7 +5,7 @@ categories: research, cnn, drought, lstm, convlstm
 ---
 ## Drought forecasts using a satellite-derived drought indicator through machine learning approach
 
-*Sumin Park<sup>1</sup>, **Daehyeon Han<sup>1</sup>**, Jungho Im<sup>1</sup>*
+*Sumin Park<sup>1</sup>, **Daehyeon Han<sup>1</sup>**, Jungho Im<sup>1\*</sup>*
 
 *1) Ulsan National Institute of Science and Technology, Ulsan, South Korea*
 

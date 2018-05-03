@@ -5,7 +5,7 @@ categories: research, random_forest, arctic
 ---
 ## Estimation of Monthly Arctic Sea Ice Concentration using Random Forests
 
-*Youngjun Kim<sup>1</sup>, **Daehyeon Han<sup>1</sup>**, Sanggyun Lee<sup>1</sup>, Jungho Im<sup>1</sup>*
+*Youngjun Kim<sup>1</sup>, **Daehyeon Han<sup>1</sup>**, Sanggyun Lee<sup>1</sup>, Jungho Im<sup>1\*</sup>*
 
 *1) Ulsan National Institute of Science and Technology (UNIST), Ulsan, Korea*
 
