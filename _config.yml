@@ -98,7 +98,7 @@ analytics:
 # Site Author
 author:
   name             : "Daehyeon Han"
-  avatar           : "/images/gh_profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/dhan_profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Environment scientist using Remote sensing and Machine Learning."
   location         : "Ulsan, South Korea"
   email            : "dhan.daehyeon@gmail.com"
