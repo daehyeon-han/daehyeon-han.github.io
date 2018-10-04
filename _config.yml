@@ -23,7 +23,7 @@ description              : "dhan's Github page."
 url                      : "https://daehyeon-han.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "images/gh_profile_500.png"
+teaser                   : "/_images/gh_profile_500.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
