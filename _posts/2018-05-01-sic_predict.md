@@ -2,7 +2,7 @@
 title: "Estimation of Monthly Arctic Sea Ice Concentration using Random Forests"
 author: Daehyeon Han
 date: 2018-05-01
-categories: research, random_forest, arctic 
+categories: projects
 image: http://tykimos.github.io/warehouse/2017-4-9-RNN_Layer_Talk_LSTM3.png
 ---
 *Youngjun Kim<sup>1</sup>, **Daehyeon Han<sup>1</sup>**, Sanggyun Lee<sup>1</sup>, Jungho Im<sup>1\*</sup>*
