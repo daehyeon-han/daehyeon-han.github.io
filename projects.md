@@ -3,6 +3,7 @@ layout: page
 title: projects
 ---
 
+
 <section>
   {% if site.projects[0] %}
 
@@ -14,7 +15,7 @@ title: projects
         <h3>{{ firstpostyear }}</h3>
     {% endif %}
 
-    {%for post in site.posts %}
+    {%for post in site.categories.projects %}
       {% unless post.next %}
         <ul>
       {% else %}
