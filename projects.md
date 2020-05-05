@@ -4,7 +4,7 @@ title: Archive
 ---
 
 <section>
-  {% if site.posts[0] %}
+  {% if site.projects[0] %}
 
     {% capture currentyear %}{{ 'now' | date: "%Y" }}{% endcapture %}
     {% capture firstpostyear %}{{ site.posts[0].date | date: '%Y' }}{% endcapture %}
