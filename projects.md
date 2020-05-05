@@ -1,6 +1,5 @@
 ---
 layout: page
-title: projects
 ---
 
 
@@ -15,7 +14,7 @@ title: projects
         <h3>{{ firstpostyear }}</h3>
     {% endif %}
 
-    {%for post in site.categories.projects %}
+    {%for post in site.posts.categories.projects %}
       {% unless post.next %}
         <ul>
       {% else %}

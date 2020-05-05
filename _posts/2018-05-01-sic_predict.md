@@ -20,3 +20,9 @@ The sea ice has a significant role in the climate system such as climate changes
 
 ### current state 
 Now we're building a model using CNN and comparing the results of RF and previous models*
+
+
+### 같이 보기
+* [강좌 목차](https://daehyeon-han.github.io/archive)
+* 이전 : [컨볼루션 신경망 모델을 위한 데이터 부풀리기](https://tykimos.github.io/2017/06/10/CNN_Data_Augmentation/)
+* 다음 : [순환 신경망 모델 만들어보기](https://tykimos.github.io/2017/04/09/RNN_Layer_Talk/)
