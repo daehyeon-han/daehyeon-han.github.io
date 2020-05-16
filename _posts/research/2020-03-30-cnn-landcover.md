@@ -22,11 +22,3 @@ This study compares some different types of spectral domain transformations for 
 ![](https://github.com/daehyeon-han/daehyeon-han.github.io/raw/master/uploads/research/202003-landcover-sensitivity.jpg)
 
 *Occlusion maps of 9 land cover classes at Lake Tapps from (a) CNN-Line model and (b) CNN-Polygon model. Red color indicates decreased accuracy for the occluded area, which indicates more contributing features. The grey-scale background image represents the frequency of the original dataset per class. Vertical lines (CNN-Line) and cross lines (CNN-Polygon) separate the four seasons.*
-
-한글은 잘 나오는지?
-
-*한글 잘 나오려나?*
-
-**한글 어떨지**
-
-# 과연 한글은?
