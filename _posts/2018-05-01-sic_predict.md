@@ -1,28 +1,15 @@
 ---
-title: "Estimation of Monthly Arctic Sea Ice Concentration using Random Forests"
+title: "Prediction of monthly Arctic sea ice concentrations using satellite and reanalysis data based on convolutional neural networks"
 author: Daehyeon Han
-date: 2018-05-01
-categories: projects
-image: http://tykimos.github.io/warehouse/2017-4-9-RNN_Layer_Talk_LSTM3.png
+date: 2020-03-25
+categories: research
 ---
-*Youngjun Kim<sup>1</sup>, **Daehyeon Han<sup>1</sup>**, Sanggyun Lee<sup>1</sup>, Jungho Im<sup>1\*</sup>*
-
-*1) Ulsan National Institute of Science and Technology (UNIST), Ulsan, Korea*
-
-*in progress*
+***publised in The Cryosphere; [doi:10.5194/tc-14-1083-2020](https://doi.org/10.5194/tc-14-1083-2020)***
 
 
 ### Abstract
-The sea ice has a significant role in the climate system such as climate changes, global warming, and energy balance issues. In addition, prediction of sea ice concentration is important for various functions including prediction and management of the polar ecosystem changes, understanding of climate changes, and financial issues regarding development of arctic shipping route. Many studies regarding estimation of sea ice concentration (SIC) have been conducted based on either numerical or statistical models. However, the models show relatively low estimation accuracy on anomalies from extreme cases. This study is to improve the estimation accuracy as well as examine relative importance among estimators using random forests. This study used monthly-mean SIC data from AVHRR (NOAA OISST ver.2), and other predictors from the European Centre for Medium-Range Weather Forecasts (ECMWF) ERA-interim re-analysis data. The spatial coverage of this study is 50° - 90° (S – N) / -180° - 180° (W - E) with 0.25*0.25 degree, and the temporal coverage is from January 1991 to December 2017 (26 years). This study used six estimators—(1) ice surface temperature (IST, 0-7cm layer, K), (2) 2-meter temperature (T2m, K), (3) sea surface temperature (SST, K), (4) downward long-wave radiation (DLR, J/m2), (5) forecast albedo (FAL, 0-1), and (6) one-month past SIC (SIC, 0-1). The random forest model show that results in R2 = 0.965 and RMSE = 4.37% for one-month prediction. The one-month past SIC was identified as the most contributing variable, followed by DLR, albedo, T2m, IST, and SST.
+Changes in Arctic sea ice affect atmospheric circulation, ocean current, and polar ecosystems. There have been unprecedented decreases in the amount of Arctic sea ice due to global warming. In this study, a novel 1-month sea ice concentration (SIC) prediction model is proposed, with eight predictors using a deep-learning approach, convolutional neural networks (CNNs). This monthly SIC prediction model based on CNNs is shown to perform better predictions (mean absolute error – MAE – of 2.28 %, anomaly correlation coefficient – ACC – of 0.98, root-mean-square error – RMSE – of 5.76 %, normalized RMSE – nRMSE – of 16.15 %, and NSE – Nash–Sutcliffe efficiency – of 0.97) than a random-forest-based (RF-based) model (MAE of 2.45 %, ACC of 0.98, RMSE of 6.61 %, nRMSE of 18.64 %, and NSE of 0.96) and the persistence model based on the monthly trend (MAE of 4.31 %, ACC of 0.95, RMSE of 10.54 %, nRMSE of 29.17 %, and NSE of 0.89) through hindcast validations. The spatio-temporal analysis also confirmed the superiority of the CNN model. The CNN model showed good SIC prediction results in extreme cases that recorded unforeseen sea ice plummets in 2007 and 2012 with RMSEs of less than 5.0 %. This study also examined the importance of the input variables through a sensitivity analysis. In both the CNN and RF models, the variables of past SICs were identified as the most sensitive factor in predicting SICs. For both models, the SIC-related variables generally contributed more to predict SICs over ice-covered areas, while other meteorological and oceanographic variables were more sensitive to the prediction of SICs in marginal ice zones. The proposed 1-month SIC prediction model provides valuable information which can be used in various applications, such as Arctic shipping-route planning, management of the fishing industry, and long-term sea ice forecasting and dynamics.
 
-![img](http://tykimos.github.io/warehouse/2017-4-9-RNN_Layer_Talk_LSTM3.png)
-
-
-### current state 
-Now we're building a model using CNN and comparing the results of RF and previous models*
-
-
-### 같이 보기
-* [강좌 목차](https://daehyeon-han.github.io/archive)
-* 이전 : [컨볼루션 신경망 모델을 위한 데이터 부풀리기](https://tykimos.github.io/2017/06/10/CNN_Data_Augmentation/)
-* 다음 : [순환 신경망 모델 만들어보기](https://tykimos.github.io/2017/04/09/RNN_Layer_Talk/)
+![](https://github.com/daehyeon-han/daehyeon-han.github.io/raw/master/uploads/research/202003-sic-flowchart.png)
+![](https://github.com/daehyeon-han/daehyeon-han.github.io/raw/master/uploads/research/202003-sic-anomaly.png)
+![](https://github.com/daehyeon-han/daehyeon-han.github.io/raw/master/uploads/research/202003-sic-sie.png)
