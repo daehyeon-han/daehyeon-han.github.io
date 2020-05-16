@@ -12,10 +12,13 @@ This study compares some different types of spectral domain transformations for 
 
 
 ![](https://github.com/daehyeon-han/daehyeon-han.github.io/raw/master/uploads/research/202003-landcover-method.png)
+
 *The process of extracting 2-D polygon and matrix inputs. The figure shows a pixel with a location (m, n) from four dates (periods 1-4) with seven (N = 7) spectral bands. The pixel value of the first spectral band at (m, n) for the tth period is designated as pm,n,(t-1)×N+1. (a) A diagram of a polygon graph for pixels at (m, n). The vertices of the polygon are located on the polar coordinate, which have the same angular interval in the counterclockwise order along with pixel values as distances. (b) A diagram of a 2-D matrix from pixels at (m, n). The rows correspond to the four seasons and the columns represent spectral bands 1–7 in this figure.*
 
 ![](https://github.com/daehyeon-han/daehyeon-han.github.io/raw/master/uploads/research/202003-landcover-input.png)
+
 *The range of the 2-D input features for nine land cover classes on (a) Lake Tapps, Washington, (b) Concord, New Hampshire, and (c) Gwangju, Korea. The first and second rows show the rate of occurrence of line and polygon graphs as density using the reference data. An area with a high occurrence rate means that the majority of graphs were plotted over the area. A rate of 1 indicates that every converted graph was plotted over an area, while a rate of 0 means no graph was plotted in that area. The third and fourth rows show the normalized mean and standard deviation of the reflectance for the 2-D matrix, respectively.*
 
 ![](https://github.com/daehyeon-han/daehyeon-han.github.io/raw/master/uploads/research/202003-landcover-sensitivity.png)
+
 *Occlusion maps of 9 land cover classes at Lake Tapps from (a) CNN-Line model and (b) CNN-Polygon model. Red color indicates decreased accuracy for the occluded area, which indicates more contributing features. The grey-scale background image represents the frequency of the original dataset per class. Vertical lines (CNN-Line) and cross lines (CNN-Polygon) separate the four seasons.*
