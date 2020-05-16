@@ -27,6 +27,7 @@ ISO 690
 
 * **Han, D.**, Lee, J., Im, J.*, Sim, S., Lee, S., & Han, H. (2019). A novel framework of detecting convective initiation combining automated sampling, machine learning, and repeated model tuning from geostationary satellite data. Remote Sensing, 11(12), 1454.
 
+* **Han, D.**, Kim, Y. J., Im, J.<sup>\*</sup>, Lee, S., Lee, Y., & Kim, H. C. (2018). The estimation of arctic air temperature in summer based on machine learning approaches using IABP buoy and AMSR2 satellite data. Korean Journal of Remote Sensing, 34(6_2), 1261-1272.
 
 * Kim, M., Lee, J., **Han, D.**, Shin, M., Im, J.*, Lee, J., ... & Gu, Z. (2018). Convolutional neural network-based land cover classification using 2-D spectral reflectance curve graphs with multitemporal satellite imagery. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 11(12), 4604-4617.
 
