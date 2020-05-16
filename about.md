@@ -33,9 +33,8 @@ ISO 690
 ---
 
 
-### Contacts
+### contacts
 * email: dhan@unist.ac.kr
-* IRIS Lab, UNIST (his lab): [http://iris.unist.ac.kr](http://iris.unist.ac.kr)
+* IRIS Lab: [http://iris.unist.ac.kr](http://iris.unist.ac.kr)
 * Github: [https://github.com/daehyeon-han](https://github.com/daehyeon-han)
 * Research Gate: [https://www.researchgate.net/profile/Daehyeon_Han](https://www.researchgate.net/profile/Daehyeon_Han)
-* Personal homepage: [thevoyageout.com](http://www.thevoyageout.com)
