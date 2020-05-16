@@ -1,5 +1,6 @@
 ---
 title: "Different Spectral Domain Transformation for Land Cover Classification Using Convolutional Neural Networks with Multi-Temporal Satellite Imagery"
+author: Daehyeon Han
 date: 2020-03-30
 categories: research
 ---
@@ -13,4 +14,3 @@ This study compares some different types of spectral domain transformations for 
 ![](https://github.com/daehyeon-han/daehyeon-han.github.io/raw/master/uploads/research/202003-landcover-method.png)
 ![](https://github.com/daehyeon-han/daehyeon-han.github.io/raw/master/uploads/research/202003-landcover-input.png)
 ![](https://github.com/daehyeon-han/daehyeon-han.github.io/raw/master/uploads/research/202003-landcover-sensitivity.png)
-</center>

@@ -13,4 +13,3 @@ Changes in Arctic sea ice affect atmospheric circulation, ocean current, and pol
 ![](https://github.com/daehyeon-han/daehyeon-han.github.io/raw/master/uploads/research/202003-sic-flowchart.png)
 ![](https://github.com/daehyeon-han/daehyeon-han.github.io/raw/master/uploads/research/202003-sic-anomaly.png)
 ![](https://github.com/daehyeon-han/daehyeon-han.github.io/raw/master/uploads/research/202003-sic-sie.png)
-</center>
