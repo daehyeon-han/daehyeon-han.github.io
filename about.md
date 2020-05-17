@@ -18,7 +18,7 @@ Daehyeon Han received the B.S. degree in Earth science and engineering from Ulsa
 * Lee, J.<sup>+</sup>, **Han, D.<sup>+</sup>**, Shin, M., Im, J.<sup>\*</sup>, Lee, J., & Quackenbush, L. J. (2020). Different Spectral Domain Transformation for Land Cover Classification Using Convolutional Neural Networks with Multi-Temporal Satellite Imagery. Remote Sensing, 12(7), 1097.
 ISO 690	
 
-* Kim, Y. J., Kim, H. C., **Han, D.**, Lee, S., & Im, J.<sup>\*</sup> (2020). Prediction of monthly Arctic sea ice concentrations using satellite and reanalysis data based on convolutional neural networks.
+* Kim, Y. J., Kim, H. C., **Han, D.**, Lee, S., & Im, J.<sup>\*</sup> (2020). Prediction of monthly Arctic sea ice concentrations using satellite and reanalysis data based on convolutional neural networks, The Cryosphere, 14, 1083–1104
 
 * Yoo, C., **Han, D.**, Im, J.<sup>\*</sup>, & Bechtel, B. (2019). Comparison between convolutional neural networks and random forest for local climate zone classification in mega urban areas using Landsat images. ISPRS Journal of Photogrammetry and Remote Sensing, 157, 155-170.
 ISO 690	
