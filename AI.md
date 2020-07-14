@@ -20,19 +20,19 @@ layout: page
         {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
         {% capture categories %}{{ post.categories }}{% endcapture %}
         {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-        {% if categories != 'AI' %}
-          {% if year != nyear %}
-            </ul>
-            <h3>{{ post.date | date: '%Y' }}</h3>
-            <ul>
-          {% endif %}
+        {% if year != nyear %}
+          </ul>
+          <h3>{{ post.date | date: '%Y' }}</h3>
+          <ul>
+        {% endif %}        
+        {% endunless %}
+        {% if categories == 'AI' %}
+          <li><time>{{ post.date | date:"%d %b" }} - </time>
+            <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+              {{ post.title }}
+            </a>
+          </li>
         {% endif %}
-      {% endunless %}
-        <li><time>{{ post.date | date:"%d %b" }} - </time>
-          <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-            {{ post.title }}
-          </a>
-        </li>
     {% endfor %}
     </ul>
 
