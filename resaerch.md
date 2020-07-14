@@ -20,7 +20,7 @@ layout: page
         {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
         {% capture categories %}{{ post.categories }}{% endcapture %}
         {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-        {% if categories != 'research' %}
+        {% if categories != 'AI' %}
           {% if year != nyear %}
             </ul>
             <h3>{{ post.date | date: '%Y' }}</h3>
