@@ -2,7 +2,7 @@
 title: "Convolutional Neural Network-Based Land Cover Classification Using 2-D Spectral Reflectance Curve Graphs With Multitemporal Satellite Imagery"
 author: Daehyeon Han
 date: 2018-12-15
-categories: research
+categories: research, RS
 ---
 ***published in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing [doi:10.1109/JSTARS.2018.2880783](http://dx.doi.org/10.1109/JSTARS.2018.2880783)***
 
