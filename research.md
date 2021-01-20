@@ -26,7 +26,7 @@ layout: page
           <ul>
         {% endif %}        
         {% endunless %}
-        {% if categories == 'publication' %}
+        {% if categories == 'research' %}
           <li><time>{{ post.date | date:"%d %b" }} - </time>
             <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
               {{ post.title }}
